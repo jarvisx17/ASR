@@ -1,6 +1,6 @@
 # ASR (Automatic Speech Recognition) Project
 
-<img src="https://www.rev.com/blog/wp-content/uploads/2021/05/Future-of-ASR-Technology.jpg" alt="ASR" width="100%" height="400px">
+<img src="https://www.rev.com/blog/wp-content/uploads/2021/05/Future-of-ASR-Technology.jpg" alt="ASR" width="100%" height="500px">
 
 
 This repository contains Jupyter Notebooks and code for training and fine-tuning Automatic Speech Recognition (ASR) models on voice data in different languages, including Hindi and Urdu.
